@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{lF as t}from"./folia-icons-CkT_pOTO.js";import{Ot as n}from"./index-BTNK_K0y.js";var r=e(t(),1),i=(0,r.createContext)(null),a=()=>(0,r.useContext)(i),o=(0,r.createContext)(null),s=()=>{let e=a(),t=(0,r.useContext)(o),i=n(e=>e.lyricRenderQuality);return e??t??i};export{a as n,s as t};
